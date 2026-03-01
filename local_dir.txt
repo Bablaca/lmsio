@@ -1,0 +1,2 @@
+In Git bash:
+cd /c/mine/lms.io
